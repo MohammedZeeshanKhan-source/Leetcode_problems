@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
