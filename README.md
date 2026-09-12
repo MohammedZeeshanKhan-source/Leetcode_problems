@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
