@@ -47,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
