@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
