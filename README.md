@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
 ## String Matching
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
