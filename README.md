@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
