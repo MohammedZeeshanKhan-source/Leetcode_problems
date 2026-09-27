@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 ## Newton's Method
 |  |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
