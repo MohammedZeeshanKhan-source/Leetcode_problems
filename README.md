@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Database
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
