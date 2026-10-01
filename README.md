@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
