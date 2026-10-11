@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
+| [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
