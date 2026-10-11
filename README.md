@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Database
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
+| [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
