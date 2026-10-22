@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
