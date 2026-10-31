@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0509-fibonacci-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -230,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
