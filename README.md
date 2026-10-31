@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String Matching
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
