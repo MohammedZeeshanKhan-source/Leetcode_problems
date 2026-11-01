@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
