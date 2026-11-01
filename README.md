@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
