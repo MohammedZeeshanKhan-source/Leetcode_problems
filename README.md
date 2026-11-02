@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0796-rotate-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
