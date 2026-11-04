@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -262,8 +266,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
