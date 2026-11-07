@@ -1,37 +1,27 @@
 class Solution {
     public int mySqrt(int x) {
-       int s=1;
-       int e=x;
-       int ans =-1;
-      if(x==0){
-
-        return 0;
-      }
-
-
-
-       while(s<=e){
-        int mid = s+(e-s)/2;
-
-        if(mid == x/mid){
-            return mid;
+        int s =1;
+        int e =x;
+        int ans = -1;
+        if(x == 0){
+            return 0;
         }
 
-         else if(mid >x/mid){
-            //move to left
+        while(s <= e){
+            int mid = s + (e-s)/2;
 
-            e= mid-1;
-         }
+            if(mid == x/mid){
+                return mid;
+            }
+            else if(mid > x/mid){
+                e = mid -1;
+            }
 
-         else{
-            //mid* mid < x
-            //potential solution per khade hai
-            //ans store karo and  move to rigth. find ans liye
-            ans = mid;
-            s= mid+1;
-         }
-       } 
-
-       return ans;
+            else {
+                ans = mid;
+                s= mid + 1;
+            }
+        }
+            return ans;
     }
 }
