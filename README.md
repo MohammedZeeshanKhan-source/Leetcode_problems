@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
+| [1748-sum-of-unique-elements](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [1748-sum-of-unique-elements](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -277,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
