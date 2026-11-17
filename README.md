@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0402-remove-k-digits) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 ## Data Stream
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
