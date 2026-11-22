@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0704-binary-search) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -331,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
