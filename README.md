@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2396-strictly-palindromic-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -340,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
