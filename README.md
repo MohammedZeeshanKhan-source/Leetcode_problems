@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1472-design-browser-history](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1472-design-browser-history) |
 | [1748-sum-of-unique-elements](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1748-sum-of-unique-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MohammedZeeshanKhan-source/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
